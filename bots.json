@@ -1,0 +1,32 @@
+[
+    {
+        "stock": "AMC",
+        "symbol": "AMC",
+        "botKey": "INSERT KEY"
+    },
+    {
+        "stock": "NIO",
+        "symbol": "NIO",
+        "botKey": "INSERT KEY"
+    },
+    {
+        "stock": "BTC",
+        "symbol": "BINANCE:BTCUSDT",
+        "botKey": "INSERT KEY"
+    },
+    {
+        "stock": "DOGE",
+        "symbol": "BINANCE:DOGEBUSD",
+        "botKey": "INSERT KEY"
+    },
+    {
+        "stock": "NOK",
+        "symbol": "NOK",
+        "botKey": "INSERT KEY"
+    },
+    {
+        "stock": "GME",
+        "symbol": "GME",
+        "botKey": "INSERT KEY"
+    }
+]
