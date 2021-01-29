@@ -1,7 +1,7 @@
 const Discord = require('discord.js')
 const bots = require('./bots.json')
 const WebSocket = require('ws')
-const socket = new WebSocket('wss://ws.finnhub.io?token=c09lq6f48v6o0n9em970')
+const socket = new WebSocket('wss://ws.finnhub.io?token=')
 const events = require('events')
 const emitter = new events.EventEmitter()
 
