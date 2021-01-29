@@ -2,31 +2,31 @@
     {
         "stock": "AMC",
         "symbol": "AMC",
-        "botKey": "INSERT KEY"
+        "botKey": "ODA0NDgxOTM0MzA5ODUxMTQ2.YBM-Lw.YawyvEuP2MSbF5cuTWCLBoQ1Wvk"
     },
     {
         "stock": "NIO",
         "symbol": "NIO",
-        "botKey": "INSERT KEY"
+        "botKey": "ODA0NDk1NDQ0MDI1MTQ3NDMy.YBNKxA.PLMbB9eRg_dI3PtrpQi9KCKrw_k"
     },
     {
         "stock": "BTC",
         "symbol": "BINANCE:BTCUSDT",
-        "botKey": "INSERT KEY"
+        "botKey": "ODA0NDk5MDQ2MzcwNzcwOTU0.YBNOHw.0ZlgB3diT1OiMblVuwgpPVHtZD8"
     },
     {
         "stock": "DOGE",
         "symbol": "BINANCE:DOGEBUSD",
-        "botKey": "INSERT KEY"
+        "botKey": "ODA0NTA0MDU5MDk2NDY1NDM4.YBNSyg.ZhoFckLW2p6rvytnGHg5pLda2zM"
     },
     {
         "stock": "NOK",
         "symbol": "NOK",
-        "botKey": "INSERT KEY"
+        "botKey": "ODA0NTA2MTc4MDYyNjQ3MzQ2.YBNUww.U6G18CmeCr2rslUJaFOTDtW7RCU"
     },
     {
         "stock": "GME",
         "symbol": "GME",
-        "botKey": "INSERT KEY"
+        "botKey": "ODA0NTA2MzgwMTY1NTc4ODA1.YBNU9A.AJeiUrnxjyi8A4VLYn3xCTqtOCc"
     }
 ]
