@@ -1,7 +1,7 @@
 # ViBot-Stonks
  
 
-**finnhub.io**
+**Tokens**
 
 Get a API token here: https://finnhub.io/ <br />
 Get a Discord Bot Token here: https://discord.com/developers/applications <br />
